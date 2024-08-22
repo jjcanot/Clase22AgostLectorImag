@@ -1,1 +1,1 @@
-# Clase22AgostLectorImag
+# Reconocimiento Óptico de Caracteres
